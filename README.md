@@ -1,5 +1,12 @@
 # butterfly README
 
+**Simplify Your Assignments with Ease!**
+
+The "abandoned butterfly" Visual Studio Code extension is designed to streamline the process of completing programming assignments. With just a few simple keywords, this extension has code snippets for a variety of assignments, covering JavaScript programming, version control with Git, Docker container environments, Angular applications, Node.js, MongoDB, jQuery Mobile etc.
+
+If you're a student at SPPU, "abandoned butterfly" is here to save the day. The README provides clear instructions on how to use keywords to get code snippets, making coding assignments more efficient and enjoyable.
+
+
 **assignment 1a** 
 Create a responsive web page which shows the ecommerce/college/exam admin dashboard with sidebar and statistics in cards using HTML, CSS and Bootstrap.
 
@@ -203,7 +210,7 @@ handlers:
 How to run: py "path of devapp_serve.py" "path of ur folder"
 
 ## Features
- Saves ur ass
+ Saves ur 
 
 ## Requirements
  u must be close friend of a stupid guy who can waste hrs to code this insted of studying
